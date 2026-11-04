@@ -43,3 +43,18 @@ MIT. Check your local anti-spam rules before sending; you own your sending domai
 A hosted, merchant-friendly version of the same idea (the shop checks
 *itself*) lives at `check.pixharvest.com` — free support audit for
 EU small shops.
+
+## Don't want to run it yourself?
+
+Two managed options:
+
+- **Free shop health-check (DE/NL):** submit your shop at
+  [check.pixharvest.com](https://check.pixharvest.com) — you get a report of
+  your response times and unanswered pre-sales questions within 24 h.
+- **Shop-Support (managed inbox):** if your shop is leaking pre-sales email,
+  [pixharvest.com](https://pixharvest.com) runs the answers for you — AI drafts
+  from your own templates, sensitive cases get a 1-click human approval,
+  flat €49/week.
+
+Shops that answer fast can claim a **response badge** for their footer
+(see [leaderboard](https://check.pixharvest.com/leaderboard)).
